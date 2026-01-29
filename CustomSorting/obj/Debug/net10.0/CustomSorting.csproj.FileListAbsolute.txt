@@ -1,0 +1,14 @@
+C:\CapageminiTraining\Top_Brains_Practice\CustomSorting\bin\Debug\net10.0\CustomSorting.exe
+C:\CapageminiTraining\Top_Brains_Practice\CustomSorting\bin\Debug\net10.0\CustomSorting.deps.json
+C:\CapageminiTraining\Top_Brains_Practice\CustomSorting\bin\Debug\net10.0\CustomSorting.runtimeconfig.json
+C:\CapageminiTraining\Top_Brains_Practice\CustomSorting\bin\Debug\net10.0\CustomSorting.dll
+C:\CapageminiTraining\Top_Brains_Practice\CustomSorting\bin\Debug\net10.0\CustomSorting.pdb
+C:\CapageminiTraining\Top_Brains_Practice\CustomSorting\obj\Debug\net10.0\CustomSorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\CapageminiTraining\Top_Brains_Practice\CustomSorting\obj\Debug\net10.0\CustomSorting.AssemblyInfoInputs.cache
+C:\CapageminiTraining\Top_Brains_Practice\CustomSorting\obj\Debug\net10.0\CustomSorting.AssemblyInfo.cs
+C:\CapageminiTraining\Top_Brains_Practice\CustomSorting\obj\Debug\net10.0\CustomSorting.csproj.CoreCompileInputs.cache
+C:\CapageminiTraining\Top_Brains_Practice\CustomSorting\obj\Debug\net10.0\CustomSorting.dll
+C:\CapageminiTraining\Top_Brains_Practice\CustomSorting\obj\Debug\net10.0\refint\CustomSorting.dll
+C:\CapageminiTraining\Top_Brains_Practice\CustomSorting\obj\Debug\net10.0\CustomSorting.pdb
+C:\CapageminiTraining\Top_Brains_Practice\CustomSorting\obj\Debug\net10.0\CustomSorting.genruntimeconfig.cache
+C:\CapageminiTraining\Top_Brains_Practice\CustomSorting\obj\Debug\net10.0\ref\CustomSorting.dll
