@@ -1,0 +1,15 @@
+C:\CapageminiTraining\Top_Brains_Practice\swapping\bin\Debug\net10.0\swapping.exe
+C:\CapageminiTraining\Top_Brains_Practice\swapping\bin\Debug\net10.0\swapping.deps.json
+C:\CapageminiTraining\Top_Brains_Practice\swapping\bin\Debug\net10.0\swapping.runtimeconfig.json
+C:\CapageminiTraining\Top_Brains_Practice\swapping\bin\Debug\net10.0\swapping.dll
+C:\CapageminiTraining\Top_Brains_Practice\swapping\bin\Debug\net10.0\swapping.pdb
+C:\CapageminiTraining\Top_Brains_Practice\swapping\obj\Debug\net10.0\swapping.GeneratedMSBuildEditorConfig.editorconfig
+C:\CapageminiTraining\Top_Brains_Practice\swapping\obj\Debug\net10.0\swapping.AssemblyInfoInputs.cache
+C:\CapageminiTraining\Top_Brains_Practice\swapping\obj\Debug\net10.0\swapping.AssemblyInfo.cs
+C:\CapageminiTraining\Top_Brains_Practice\swapping\obj\Debug\net10.0\swapping.csproj.CoreCompileInputs.cache
+C:\CapageminiTraining\Top_Brains_Practice\swapping\obj\Debug\net10.0\swapping.sourcelink.json
+C:\CapageminiTraining\Top_Brains_Practice\swapping\obj\Debug\net10.0\swapping.dll
+C:\CapageminiTraining\Top_Brains_Practice\swapping\obj\Debug\net10.0\refint\swapping.dll
+C:\CapageminiTraining\Top_Brains_Practice\swapping\obj\Debug\net10.0\swapping.pdb
+C:\CapageminiTraining\Top_Brains_Practice\swapping\obj\Debug\net10.0\swapping.genruntimeconfig.cache
+C:\CapageminiTraining\Top_Brains_Practice\swapping\obj\Debug\net10.0\ref\swapping.dll
