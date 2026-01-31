@@ -1,0 +1,14 @@
+C:\CapageminiTraining\BikeRentalSystem\obj\Debug\net10.0\BikeRentalSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\CapageminiTraining\BikeRentalSystem\obj\Debug\net10.0\BikeRentalSystem.AssemblyInfoInputs.cache
+C:\CapageminiTraining\BikeRentalSystem\obj\Debug\net10.0\BikeRentalSystem.AssemblyInfo.cs
+C:\CapageminiTraining\BikeRentalSystem\obj\Debug\net10.0\BikeRentalSystem.csproj.CoreCompileInputs.cache
+C:\CapageminiTraining\BikeRentalSystem\bin\Debug\net10.0\BikeRentalSystem.exe
+C:\CapageminiTraining\BikeRentalSystem\bin\Debug\net10.0\BikeRentalSystem.deps.json
+C:\CapageminiTraining\BikeRentalSystem\bin\Debug\net10.0\BikeRentalSystem.runtimeconfig.json
+C:\CapageminiTraining\BikeRentalSystem\bin\Debug\net10.0\BikeRentalSystem.dll
+C:\CapageminiTraining\BikeRentalSystem\bin\Debug\net10.0\BikeRentalSystem.pdb
+C:\CapageminiTraining\BikeRentalSystem\obj\Debug\net10.0\BikeRentalSystem.dll
+C:\CapageminiTraining\BikeRentalSystem\obj\Debug\net10.0\refint\BikeRentalSystem.dll
+C:\CapageminiTraining\BikeRentalSystem\obj\Debug\net10.0\BikeRentalSystem.pdb
+C:\CapageminiTraining\BikeRentalSystem\obj\Debug\net10.0\BikeRentalSystem.genruntimeconfig.cache
+C:\CapageminiTraining\BikeRentalSystem\obj\Debug\net10.0\ref\BikeRentalSystem.dll
