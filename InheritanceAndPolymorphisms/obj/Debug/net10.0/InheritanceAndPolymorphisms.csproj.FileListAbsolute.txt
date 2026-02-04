@@ -1,0 +1,15 @@
+C:\CapageminiTraining\Top_Brains_Practice\InheritanceAndPolymorphisms\bin\Debug\net10.0\InheritanceAndPolymorphisms.exe
+C:\CapageminiTraining\Top_Brains_Practice\InheritanceAndPolymorphisms\bin\Debug\net10.0\InheritanceAndPolymorphisms.deps.json
+C:\CapageminiTraining\Top_Brains_Practice\InheritanceAndPolymorphisms\bin\Debug\net10.0\InheritanceAndPolymorphisms.runtimeconfig.json
+C:\CapageminiTraining\Top_Brains_Practice\InheritanceAndPolymorphisms\bin\Debug\net10.0\InheritanceAndPolymorphisms.dll
+C:\CapageminiTraining\Top_Brains_Practice\InheritanceAndPolymorphisms\bin\Debug\net10.0\InheritanceAndPolymorphisms.pdb
+C:\CapageminiTraining\Top_Brains_Practice\InheritanceAndPolymorphisms\obj\Debug\net10.0\InheritanceAndPolymorphisms.GeneratedMSBuildEditorConfig.editorconfig
+C:\CapageminiTraining\Top_Brains_Practice\InheritanceAndPolymorphisms\obj\Debug\net10.0\InheritanceAndPolymorphisms.AssemblyInfoInputs.cache
+C:\CapageminiTraining\Top_Brains_Practice\InheritanceAndPolymorphisms\obj\Debug\net10.0\InheritanceAndPolymorphisms.AssemblyInfo.cs
+C:\CapageminiTraining\Top_Brains_Practice\InheritanceAndPolymorphisms\obj\Debug\net10.0\InheritanceAndPolymorphisms.csproj.CoreCompileInputs.cache
+C:\CapageminiTraining\Top_Brains_Practice\InheritanceAndPolymorphisms\obj\Debug\net10.0\InheritanceAndPolymorphisms.sourcelink.json
+C:\CapageminiTraining\Top_Brains_Practice\InheritanceAndPolymorphisms\obj\Debug\net10.0\InheritanceAndPolymorphisms.dll
+C:\CapageminiTraining\Top_Brains_Practice\InheritanceAndPolymorphisms\obj\Debug\net10.0\refint\InheritanceAndPolymorphisms.dll
+C:\CapageminiTraining\Top_Brains_Practice\InheritanceAndPolymorphisms\obj\Debug\net10.0\InheritanceAndPolymorphisms.pdb
+C:\CapageminiTraining\Top_Brains_Practice\InheritanceAndPolymorphisms\obj\Debug\net10.0\InheritanceAndPolymorphisms.genruntimeconfig.cache
+C:\CapageminiTraining\Top_Brains_Practice\InheritanceAndPolymorphisms\obj\Debug\net10.0\ref\InheritanceAndPolymorphisms.dll
