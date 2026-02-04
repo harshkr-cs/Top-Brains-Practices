@@ -1,0 +1,15 @@
+C:\CapageminiTraining\Top_Brains_Practice\ObjectArray\bin\Debug\net10.0\ObjectArray.exe
+C:\CapageminiTraining\Top_Brains_Practice\ObjectArray\bin\Debug\net10.0\ObjectArray.deps.json
+C:\CapageminiTraining\Top_Brains_Practice\ObjectArray\bin\Debug\net10.0\ObjectArray.runtimeconfig.json
+C:\CapageminiTraining\Top_Brains_Practice\ObjectArray\bin\Debug\net10.0\ObjectArray.dll
+C:\CapageminiTraining\Top_Brains_Practice\ObjectArray\bin\Debug\net10.0\ObjectArray.pdb
+C:\CapageminiTraining\Top_Brains_Practice\ObjectArray\obj\Debug\net10.0\ObjectArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\CapageminiTraining\Top_Brains_Practice\ObjectArray\obj\Debug\net10.0\ObjectArray.AssemblyInfoInputs.cache
+C:\CapageminiTraining\Top_Brains_Practice\ObjectArray\obj\Debug\net10.0\ObjectArray.AssemblyInfo.cs
+C:\CapageminiTraining\Top_Brains_Practice\ObjectArray\obj\Debug\net10.0\ObjectArray.csproj.CoreCompileInputs.cache
+C:\CapageminiTraining\Top_Brains_Practice\ObjectArray\obj\Debug\net10.0\ObjectArray.sourcelink.json
+C:\CapageminiTraining\Top_Brains_Practice\ObjectArray\obj\Debug\net10.0\ObjectArray.dll
+C:\CapageminiTraining\Top_Brains_Practice\ObjectArray\obj\Debug\net10.0\refint\ObjectArray.dll
+C:\CapageminiTraining\Top_Brains_Practice\ObjectArray\obj\Debug\net10.0\ObjectArray.pdb
+C:\CapageminiTraining\Top_Brains_Practice\ObjectArray\obj\Debug\net10.0\ObjectArray.genruntimeconfig.cache
+C:\CapageminiTraining\Top_Brains_Practice\ObjectArray\obj\Debug\net10.0\ref\ObjectArray.dll
