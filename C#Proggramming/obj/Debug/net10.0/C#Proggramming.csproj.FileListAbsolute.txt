@@ -1,0 +1,15 @@
+C:\CapageminiTraining\Top_Brains_Practice\C#Proggramming\bin\Debug\net10.0\C#Proggramming.exe
+C:\CapageminiTraining\Top_Brains_Practice\C#Proggramming\bin\Debug\net10.0\C#Proggramming.deps.json
+C:\CapageminiTraining\Top_Brains_Practice\C#Proggramming\bin\Debug\net10.0\C#Proggramming.runtimeconfig.json
+C:\CapageminiTraining\Top_Brains_Practice\C#Proggramming\bin\Debug\net10.0\C#Proggramming.dll
+C:\CapageminiTraining\Top_Brains_Practice\C#Proggramming\bin\Debug\net10.0\C#Proggramming.pdb
+C:\CapageminiTraining\Top_Brains_Practice\C#Proggramming\obj\Debug\net10.0\C#Proggramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\CapageminiTraining\Top_Brains_Practice\C#Proggramming\obj\Debug\net10.0\C#Proggramming.AssemblyInfoInputs.cache
+C:\CapageminiTraining\Top_Brains_Practice\C#Proggramming\obj\Debug\net10.0\C#Proggramming.AssemblyInfo.cs
+C:\CapageminiTraining\Top_Brains_Practice\C#Proggramming\obj\Debug\net10.0\C#Proggramming.csproj.CoreCompileInputs.cache
+C:\CapageminiTraining\Top_Brains_Practice\C#Proggramming\obj\Debug\net10.0\C#Proggramming.sourcelink.json
+C:\CapageminiTraining\Top_Brains_Practice\C#Proggramming\obj\Debug\net10.0\C#Proggramming.dll
+C:\CapageminiTraining\Top_Brains_Practice\C#Proggramming\obj\Debug\net10.0\refint\C#Proggramming.dll
+C:\CapageminiTraining\Top_Brains_Practice\C#Proggramming\obj\Debug\net10.0\C#Proggramming.pdb
+C:\CapageminiTraining\Top_Brains_Practice\C#Proggramming\obj\Debug\net10.0\C#Proggramming.genruntimeconfig.cache
+C:\CapageminiTraining\Top_Brains_Practice\C#Proggramming\obj\Debug\net10.0\ref\C#Proggramming.dll

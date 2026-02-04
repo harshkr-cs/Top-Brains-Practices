@@ -1,0 +1,15 @@
+C:\CapageminiTraining\Top_Brains_Practice\Inventory_Name_Cleanup\bin\Debug\net10.0\Inventory_Name_Cleanup.exe
+C:\CapageminiTraining\Top_Brains_Practice\Inventory_Name_Cleanup\bin\Debug\net10.0\Inventory_Name_Cleanup.deps.json
+C:\CapageminiTraining\Top_Brains_Practice\Inventory_Name_Cleanup\bin\Debug\net10.0\Inventory_Name_Cleanup.runtimeconfig.json
+C:\CapageminiTraining\Top_Brains_Practice\Inventory_Name_Cleanup\bin\Debug\net10.0\Inventory_Name_Cleanup.dll
+C:\CapageminiTraining\Top_Brains_Practice\Inventory_Name_Cleanup\bin\Debug\net10.0\Inventory_Name_Cleanup.pdb
+C:\CapageminiTraining\Top_Brains_Practice\Inventory_Name_Cleanup\obj\Debug\net10.0\Inventory_Name_Cleanup.GeneratedMSBuildEditorConfig.editorconfig
+C:\CapageminiTraining\Top_Brains_Practice\Inventory_Name_Cleanup\obj\Debug\net10.0\Inventory_Name_Cleanup.AssemblyInfoInputs.cache
+C:\CapageminiTraining\Top_Brains_Practice\Inventory_Name_Cleanup\obj\Debug\net10.0\Inventory_Name_Cleanup.AssemblyInfo.cs
+C:\CapageminiTraining\Top_Brains_Practice\Inventory_Name_Cleanup\obj\Debug\net10.0\Inventory_Name_Cleanup.csproj.CoreCompileInputs.cache
+C:\CapageminiTraining\Top_Brains_Practice\Inventory_Name_Cleanup\obj\Debug\net10.0\Inventory_Name_Cleanup.sourcelink.json
+C:\CapageminiTraining\Top_Brains_Practice\Inventory_Name_Cleanup\obj\Debug\net10.0\Inventory_Name_Cleanup.dll
+C:\CapageminiTraining\Top_Brains_Practice\Inventory_Name_Cleanup\obj\Debug\net10.0\refint\Inventory_Name_Cleanup.dll
+C:\CapageminiTraining\Top_Brains_Practice\Inventory_Name_Cleanup\obj\Debug\net10.0\Inventory_Name_Cleanup.pdb
+C:\CapageminiTraining\Top_Brains_Practice\Inventory_Name_Cleanup\obj\Debug\net10.0\Inventory_Name_Cleanup.genruntimeconfig.cache
+C:\CapageminiTraining\Top_Brains_Practice\Inventory_Name_Cleanup\obj\Debug\net10.0\ref\Inventory_Name_Cleanup.dll
