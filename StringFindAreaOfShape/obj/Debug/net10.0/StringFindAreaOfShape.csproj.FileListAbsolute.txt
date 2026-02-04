@@ -1,0 +1,15 @@
+C:\CapageminiTraining\Top_Brains_Practice\StringFindAreaOfShape\obj\Debug\net10.0\StringFindAreaOfShape.GeneratedMSBuildEditorConfig.editorconfig
+C:\CapageminiTraining\Top_Brains_Practice\StringFindAreaOfShape\obj\Debug\net10.0\StringFindAreaOfShape.AssemblyInfoInputs.cache
+C:\CapageminiTraining\Top_Brains_Practice\StringFindAreaOfShape\obj\Debug\net10.0\StringFindAreaOfShape.AssemblyInfo.cs
+C:\CapageminiTraining\Top_Brains_Practice\StringFindAreaOfShape\obj\Debug\net10.0\StringFindAreaOfShape.csproj.CoreCompileInputs.cache
+C:\CapageminiTraining\Top_Brains_Practice\StringFindAreaOfShape\obj\Debug\net10.0\StringFindAreaOfShape.sourcelink.json
+C:\CapageminiTraining\Top_Brains_Practice\StringFindAreaOfShape\bin\Debug\net10.0\StringFindAreaOfShape.exe
+C:\CapageminiTraining\Top_Brains_Practice\StringFindAreaOfShape\bin\Debug\net10.0\StringFindAreaOfShape.deps.json
+C:\CapageminiTraining\Top_Brains_Practice\StringFindAreaOfShape\bin\Debug\net10.0\StringFindAreaOfShape.runtimeconfig.json
+C:\CapageminiTraining\Top_Brains_Practice\StringFindAreaOfShape\bin\Debug\net10.0\StringFindAreaOfShape.dll
+C:\CapageminiTraining\Top_Brains_Practice\StringFindAreaOfShape\bin\Debug\net10.0\StringFindAreaOfShape.pdb
+C:\CapageminiTraining\Top_Brains_Practice\StringFindAreaOfShape\obj\Debug\net10.0\StringFindAreaOfShape.dll
+C:\CapageminiTraining\Top_Brains_Practice\StringFindAreaOfShape\obj\Debug\net10.0\refint\StringFindAreaOfShape.dll
+C:\CapageminiTraining\Top_Brains_Practice\StringFindAreaOfShape\obj\Debug\net10.0\StringFindAreaOfShape.pdb
+C:\CapageminiTraining\Top_Brains_Practice\StringFindAreaOfShape\obj\Debug\net10.0\StringFindAreaOfShape.genruntimeconfig.cache
+C:\CapageminiTraining\Top_Brains_Practice\StringFindAreaOfShape\obj\Debug\net10.0\ref\StringFindAreaOfShape.dll
