@@ -1,0 +1,15 @@
+C:\CapageminiTraining\Top_Brains_Practice\BankTransaction\obj\Debug\net10.0\BankTransaction.GeneratedMSBuildEditorConfig.editorconfig
+C:\CapageminiTraining\Top_Brains_Practice\BankTransaction\obj\Debug\net10.0\BankTransaction.AssemblyInfoInputs.cache
+C:\CapageminiTraining\Top_Brains_Practice\BankTransaction\obj\Debug\net10.0\BankTransaction.AssemblyInfo.cs
+C:\CapageminiTraining\Top_Brains_Practice\BankTransaction\obj\Debug\net10.0\BankTransaction.csproj.CoreCompileInputs.cache
+C:\CapageminiTraining\Top_Brains_Practice\BankTransaction\obj\Debug\net10.0\BankTransaction.sourcelink.json
+C:\CapageminiTraining\Top_Brains_Practice\BankTransaction\bin\Debug\net10.0\BankTransaction.exe
+C:\CapageminiTraining\Top_Brains_Practice\BankTransaction\bin\Debug\net10.0\BankTransaction.deps.json
+C:\CapageminiTraining\Top_Brains_Practice\BankTransaction\bin\Debug\net10.0\BankTransaction.runtimeconfig.json
+C:\CapageminiTraining\Top_Brains_Practice\BankTransaction\bin\Debug\net10.0\BankTransaction.dll
+C:\CapageminiTraining\Top_Brains_Practice\BankTransaction\bin\Debug\net10.0\BankTransaction.pdb
+C:\CapageminiTraining\Top_Brains_Practice\BankTransaction\obj\Debug\net10.0\BankTransaction.dll
+C:\CapageminiTraining\Top_Brains_Practice\BankTransaction\obj\Debug\net10.0\refint\BankTransaction.dll
+C:\CapageminiTraining\Top_Brains_Practice\BankTransaction\obj\Debug\net10.0\BankTransaction.pdb
+C:\CapageminiTraining\Top_Brains_Practice\BankTransaction\obj\Debug\net10.0\BankTransaction.genruntimeconfig.cache
+C:\CapageminiTraining\Top_Brains_Practice\BankTransaction\obj\Debug\net10.0\ref\BankTransaction.dll
