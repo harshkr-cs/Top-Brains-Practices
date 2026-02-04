@@ -1,0 +1,15 @@
+C:\CapageminiTraining\Top_Brains_Practice\GCD\bin\Debug\net10.0\GCD.exe
+C:\CapageminiTraining\Top_Brains_Practice\GCD\bin\Debug\net10.0\GCD.deps.json
+C:\CapageminiTraining\Top_Brains_Practice\GCD\bin\Debug\net10.0\GCD.runtimeconfig.json
+C:\CapageminiTraining\Top_Brains_Practice\GCD\bin\Debug\net10.0\GCD.dll
+C:\CapageminiTraining\Top_Brains_Practice\GCD\bin\Debug\net10.0\GCD.pdb
+C:\CapageminiTraining\Top_Brains_Practice\GCD\obj\Debug\net10.0\GCD.GeneratedMSBuildEditorConfig.editorconfig
+C:\CapageminiTraining\Top_Brains_Practice\GCD\obj\Debug\net10.0\GCD.AssemblyInfoInputs.cache
+C:\CapageminiTraining\Top_Brains_Practice\GCD\obj\Debug\net10.0\GCD.AssemblyInfo.cs
+C:\CapageminiTraining\Top_Brains_Practice\GCD\obj\Debug\net10.0\GCD.csproj.CoreCompileInputs.cache
+C:\CapageminiTraining\Top_Brains_Practice\GCD\obj\Debug\net10.0\GCD.sourcelink.json
+C:\CapageminiTraining\Top_Brains_Practice\GCD\obj\Debug\net10.0\GCD.dll
+C:\CapageminiTraining\Top_Brains_Practice\GCD\obj\Debug\net10.0\refint\GCD.dll
+C:\CapageminiTraining\Top_Brains_Practice\GCD\obj\Debug\net10.0\GCD.pdb
+C:\CapageminiTraining\Top_Brains_Practice\GCD\obj\Debug\net10.0\GCD.genruntimeconfig.cache
+C:\CapageminiTraining\Top_Brains_Practice\GCD\obj\Debug\net10.0\ref\GCD.dll
