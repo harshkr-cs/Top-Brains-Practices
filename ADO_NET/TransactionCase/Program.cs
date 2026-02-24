@@ -33,6 +33,8 @@ class Program
 
         //Q7: Call Stored Procedure with OUTPUT Parameter
         GetTotalEmployeeCount();
+        //q8: Implement Transaction for Fund Transfer
+        TransferAmount(1, 2, 1000);
 
 
     }
@@ -112,6 +114,47 @@ class Program
             cmd.ExecuteNonQuery();
 
             Console.WriteLine($"Employee Count: {outputParam.Value}");
+        }
+    }
+    //Q8: Implement Transaction for Fund Transfer
+    static void TransferAmount(int senderId, int receiverId, decimal amount)
+    {
+        using (SqlConnection con = new SqlConnection(cs))
+        {
+            con.Open();
+            SqlTransaction transaction = con.BeginTransaction();
+
+            try
+            {
+                SqlCommand deductCmd = new SqlCommand(
+                    "UPDATE Accounts SET Balance = Balance - @Amount WHERE AccountId = @SenderId",
+                    con, transaction);
+
+                deductCmd.Parameters.AddWithValue("@Amount", amount);
+                deductCmd.Parameters.AddWithValue("@SenderId", senderId);
+
+                deductCmd.ExecuteNonQuery();
+
+                SqlCommand addCmd = new SqlCommand(
+                    "UPDATE Accounts SET Balance = Balance + @Amount WHERE AccountId = @ReceiverId",
+                    con, transaction);
+
+                addCmd.Parameters.AddWithValue("@Amount", amount);
+                addCmd.Parameters.AddWithValue("@ReceiverId", receiverId);
+
+                addCmd.ExecuteNonQuery();
+
+                transaction.Commit();
+                Console.WriteLine("Transaction Successful!");
+            }
+            catch (Exception ex)
+            {
+               
+                transaction.Rollback();
+                Console.WriteLine("Transaction Failed");
+                Console.WriteLine("Rolled Back Successfully");
+                Console.WriteLine(ex.Message);
+            }
         }
     }
 }

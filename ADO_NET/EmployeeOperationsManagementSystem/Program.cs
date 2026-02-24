@@ -23,7 +23,7 @@ class Program
     }
 
     //connection string to connect to the SQL Server database
-    static string cs = "Data Source=LAPTOP-LE8UEN26\\SQLEXPRESS;" +
+    static string cs = "Data Source=LAPTOP-LE8UEN24\\SQLEXPRESS;" +
                              "DataBase=ADO_NET;" +
                              "Integrated Security=True;" +
                              "TrustServerCertificate=True;";
