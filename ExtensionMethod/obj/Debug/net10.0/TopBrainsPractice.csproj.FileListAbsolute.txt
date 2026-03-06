@@ -1,0 +1,14 @@
+C:\CapageminiTraining\TopBrainsPractice\obj\Debug\net10.0\TopBrainsPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\CapageminiTraining\TopBrainsPractice\obj\Debug\net10.0\TopBrainsPractice.AssemblyInfoInputs.cache
+C:\CapageminiTraining\TopBrainsPractice\obj\Debug\net10.0\TopBrainsPractice.AssemblyInfo.cs
+C:\CapageminiTraining\TopBrainsPractice\obj\Debug\net10.0\TopBrainsPractice.csproj.CoreCompileInputs.cache
+C:\CapageminiTraining\TopBrainsPractice\bin\Debug\net10.0\TopBrainsPractice.exe
+C:\CapageminiTraining\TopBrainsPractice\bin\Debug\net10.0\TopBrainsPractice.deps.json
+C:\CapageminiTraining\TopBrainsPractice\bin\Debug\net10.0\TopBrainsPractice.runtimeconfig.json
+C:\CapageminiTraining\TopBrainsPractice\bin\Debug\net10.0\TopBrainsPractice.dll
+C:\CapageminiTraining\TopBrainsPractice\bin\Debug\net10.0\TopBrainsPractice.pdb
+C:\CapageminiTraining\TopBrainsPractice\obj\Debug\net10.0\TopBrainsPractice.dll
+C:\CapageminiTraining\TopBrainsPractice\obj\Debug\net10.0\refint\TopBrainsPractice.dll
+C:\CapageminiTraining\TopBrainsPractice\obj\Debug\net10.0\TopBrainsPractice.pdb
+C:\CapageminiTraining\TopBrainsPractice\obj\Debug\net10.0\TopBrainsPractice.genruntimeconfig.cache
+C:\CapageminiTraining\TopBrainsPractice\obj\Debug\net10.0\ref\TopBrainsPractice.dll
